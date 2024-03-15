@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there My name is Ali,with interest in software engineering 👋
 
 <!--
 **AbdulAAbdalla/AbdulAAbdalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
