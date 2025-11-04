@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Ali A. Abdul from Nairobi Kenya<br><br>- 🔭 I’m working as an Administrator<br>- 📚 I'm currently learning Software engineering, computer networking  and Cyber Security.<br>- ⚡ In my free time I like engaging my followers online on current affairs local and international.</p>
+<p align="left">I'm Ali A. Abdul from Nairobi Kenya<br><br>- 🔭 I’m working as an Administrator<br>- 📚 pursued Software engineering, computer networking,AI and Cyber Security.<br>- ⚡ In my free time I like engaging my followers online on current affairs local and international.</p>
 
 ###
 
